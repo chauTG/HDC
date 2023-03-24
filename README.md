@@ -4,4 +4,5 @@
 # Start 
 ### `npm start`
 # HDC
-``` Build dockerfile ```
+# Build dockerfile
+ ``` docker build -t .```
