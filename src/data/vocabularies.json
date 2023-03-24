@@ -1,0 +1,1475 @@
+[
+   {
+      "vocabularyId":"0",
+      "vocabulary":"children",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"Những đứa trẻ"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"1",
+      "vocabulary":"husband",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"Chồng"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"2",
+      "vocabulary":"wife",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"Vợ"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"3",
+      "vocabulary":"mother",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"Mẹ"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"4",
+      "vocabulary":"father",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"Cha"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"5",
+      "vocabulary":"parents",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"Cha mẹ"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"6",
+      "vocabulary":"daughter",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"Con gái"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"7",
+      "vocabulary":"son",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"Con trai"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"8",
+      "vocabulary":"brother",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"Anh trai"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"9",
+      "vocabulary":"sister",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"Em gái"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"10",
+      "vocabulary":"grandfather",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"Ông"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"11",
+      "vocabulary":"grandmother",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"Bà"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"12",
+      "vocabulary":"grandparents",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"Ông bà"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"13",
+      "vocabulary":"granddaughter",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"cháu gái"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"14",
+      "vocabulary":"grandson",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"cháu trai"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"15",
+      "vocabulary":"uncle",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"chú"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"16",
+      "vocabulary":"aunts",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"những người cô"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"17",
+      "vocabulary":"aunt",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"cô"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"18",
+      "vocabulary":"niece",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"cháu gái"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"19",
+      "vocabulary":"nephew",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"cháu trai"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"20",
+      "vocabulary":"cousins",
+      "themeId":"0d5345d0-75b5-4b18-b71b-173eddedab49",
+      "theme":"The family",
+      "translations":{
+         "vn":"anh em họ"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"21",
+      "vocabulary":"hat",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "translations":{
+         "vn":"mũ"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"23",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "vocabulary":"scarf",
+      "translations":{
+         "vn":"khăng quàng cổ"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"24",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "vocabulary":"gloves",
+      "translations":{
+         "vn":"găng tay"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"25",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "vocabulary":"shoes",
+      "translations":{
+         "vn":"giày"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"26",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "vocabulary":"trainers",
+      "translations":{
+         "vn":"giày thể thao"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"27",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "vocabulary":"boots",
+      "translations":{
+         "vn":"giày bốt"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"28",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "vocabulary":"suit",
+      "translations":{
+         "vn":"suit"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"29",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "vocabulary":"socks",
+      "translations":{
+         "vn":"tất chân"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"30",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "vocabulary":"watch",
+      "translations":{
+         "vn":"đồng hồ"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"31",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "vocabulary":"dress",
+      "translations":{
+         "vn":"đầm"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"32",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "vocabulary":"ring",
+      "translations":{
+         "vn":"nhẫn"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"33",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "vocabulary":"skirt",
+      "translations":{
+         "vn":"váy"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"34",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "vocabulary":"tie",
+      "translations":{
+         "vn":"cà vạt"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"35",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "vocabulary":"sweater",
+      "translations":{
+         "vn":"áo ấm"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"37",
+      "vocabulary":"plural",
+      "themeId":"bc807141-df31-4da3-a59e-c66b1fd2c679",
+      "translations":{
+         "vn":"số nhiều"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"38",
+      "vocabulary":"trousers",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "translations":{
+         "vn":"quần dài"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"39",
+      "vocabulary":"jeans",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "translations":{
+         "vn":"quần jeans"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"40",
+      "vocabulary":"shorts",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "translations":{
+         "vn":"váy ngắn"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"41",
+      "vocabulary":"tights",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "translations":{
+         "vn":"quần bó"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"42",
+      "vocabulary":"glasses",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "translations":{
+         "vn":"kính"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"43",
+      "vocabulary":"pyjimas",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "translations":{
+         "vn":"pyjimas"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"44",
+      "vocabulary":"hair",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"tóc"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"45",
+      "vocabulary":"eye",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"mắt"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"46",
+      "vocabulary":"nose",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"mũi"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"47",
+      "vocabulary":"tooth",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"răng"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"48",
+      "vocabulary":"ear",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"tai"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"49",
+      "vocabulary":"mouth",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"miệng"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"50",
+      "vocabulary":"lip",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"môi"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"51",
+      "vocabulary":"neck",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"cổ"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"52",
+      "vocabulary":"nail",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"móng tay"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"53",
+      "vocabulary":"thumb",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"ngón cái"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"54",
+      "vocabulary":"finger",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"ngón tay"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"55",
+      "vocabulary":"hand",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"tay"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"56",
+      "vocabulary":"shoulder",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"vãi"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"57",
+      "vocabulary":"arm",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"cánh tay"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"58",
+      "vocabulary":"leg",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"chân"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"59",
+      "vocabulary":"knee",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"đầu gối"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"60",
+      "vocabulary":"foot",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"bàn chân"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"61",
+      "vocabulary":"toe",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"ngón chân"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"62",
+      "vocabulary":"chest",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"ngực"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"63",
+      "vocabulary":"side",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"mạn sườn"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"64",
+      "vocabulary":"stomach",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"bụng"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"65",
+      "vocabulary":"back",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"sau lưng"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"66",
+      "vocabulary":"waist",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"thắt lưng"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"67",
+      "vocabulary":"hip",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"hông"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"68",
+      "vocabulary":"heart",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"tim"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"69",
+      "vocabulary":"brain",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"não"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"70",
+      "vocabulary":"blood",
+      "themeId":"ef402905-de7b-49e3-b211-b03b651f3fa8",
+      "translations":{
+         "vn":"máu"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"2d4af658-7c6a-48df-a5b6-a83b74a050a8",
+      "vocabulary":"belt",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "translations":{
+         "vn":"thắt lưng"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"5992fcec-1018-467b-810e-40144806096b",
+      "vocabulary":"pair",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "translations":{
+         "vn":"đôi"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"1a9c2611-496f-430f-901b-31e4f0903d0a",
+      "vocabulary":"suitcase",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "translations":{
+         "vn":"va li"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"0f413757-ef7f-452d-81f6-3c5af6fbe50b",
+      "vocabulary":"handbag",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "translations":{
+         "vn":"túi xách"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"c4f9d88f-ce5c-445b-b950-52077b0a8f65",
+      "vocabulary":"umbrella",
+      "themeId":"0a2609b5-c1db-4770-9249-9ee7005638f8",
+      "translations":{
+         "vn":"umbrella"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"92a604bb-307a-4df1-aa63-d03eeee010a2",
+      "vocabulary":"guarantee",
+      "themeId":"bc807141-df31-4da3-a59e-c66b1fd2c679",
+      "translations":{
+         "vn":"bảo đảm"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"31ae2e13-21f6-4e8b-87de-68c9a1398663",
+      "vocabulary":"empower",
+      "themeId":"bc807141-df31-4da3-a59e-c66b1fd2c679",
+      "translations":{
+         "vn":" trao quyền, uỷ quyền"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"e94607ca-e724-481e-a5c7-eb36f8c6e765",
+      "vocabulary":"smart",
+      "themeId":"bc807141-df31-4da3-a59e-c66b1fd2c679",
+      "translations":{
+         "vn":"thông minh"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"3ef12e96-c6bc-4460-b886-527820080d39",
+      "vocabulary":"evaluate",
+      "themeId":"bc807141-df31-4da3-a59e-c66b1fd2c679",
+      "translations":{
+         "vn":"đánh giá"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"5912f526-3646-4d0d-a700-d63ea3036f0c",
+      "vocabulary":"prominent",
+      "themeId":"bc807141-df31-4da3-a59e-c66b1fd2c679",
+      "translations":{
+         "vn":"nổi bật, đáng chú ý"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"a29cd8b7-2c7a-4610-8673-efbafa35262f",
+      "vocabulary":"visualize",
+      "themeId":"bc807141-df31-4da3-a59e-c66b1fd2c679",
+      "translations":{
+         "vn":"hình dung"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"61e6709d-7241-48b4-859b-6938f241091d",
+      "vocabulary":"abstract",
+      "themeId":"bc807141-df31-4da3-a59e-c66b1fd2c679",
+      "translations":{
+         "vn":"trừu tượng"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"457b5212-2671-4727-8fb8-13078d3e5840",
+      "vocabulary":"recap",
+      "themeId":"bc807141-df31-4da3-a59e-c66b1fd2c679",
+      "translations":{
+         "vn":"tóm tắt lại"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"e9c9f6d7-cdbd-4716-b53b-79c144369963",
+      "vocabulary":"appear",
+      "themeId":"bc807141-df31-4da3-a59e-c66b1fd2c679",
+      "translations":{
+         "vn":"xuất hiện"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"4d4b0d8d-903e-419a-af5a-ee1a102b1343",
+      "vocabulary":"Hopefully",
+      "themeId":"bc807141-df31-4da3-a59e-c66b1fd2c679",
+      "translations":{
+         "vn":"hy vọng rằng"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"84ec8130-7528-498d-8f72-047bf635570c",
+      "vocabulary":"Kinds",
+      "themeId":"bc807141-df31-4da3-a59e-c66b1fd2c679",
+      "translations":{
+         "vn":"loại"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"8308a82a-1dc3-4f47-ac30-9bd1625a0016",
+      "vocabulary":"tall",
+      "themeId":"36e1af92-09bd-4334-931f-95d11c075e69",
+      "translations":{
+         "vn":"cao"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"951b38f1-45e3-4e52-b3fb-151981c079cf",
+      "vocabulary":"short",
+      "themeId":"36e1af92-09bd-4334-931f-95d11c075e69",
+      "translations":{
+         "vn":"lùn"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"6394993b-4972-44fc-82d5-c489887fa836",
+      "vocabulary":"medium height",
+      "themeId":"36e1af92-09bd-4334-931f-95d11c075e69",
+      "translations":{
+         "vn":"cao trung bình"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"89d50b1a-20e6-4253-abdd-ff2bc38d99cd",
+      "vocabulary":"slim",
+      "themeId":"36e1af92-09bd-4334-931f-95d11c075e69",
+      "translations":{
+         "vn":"mảnh khảnh"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"96728916-87e6-4243-96fb-4811fd023a7c",
+      "vocabulary":"thin",
+      "themeId":"36e1af92-09bd-4334-931f-95d11c075e69",
+      "translations":{
+         "vn":"gầy"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"690c7bcb-7ccb-4e72-93c0-3c5757cd01d1",
+      "vocabulary":"overweight",
+      "themeId":"36e1af92-09bd-4334-931f-95d11c075e69",
+      "translations":{
+         "vn":"thừa cân"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"ea554e4a-e5c4-4589-9f71-779f8a4f4a6f",
+      "vocabulary":"fat",
+      "themeId":"36e1af92-09bd-4334-931f-95d11c075e69",
+      "translations":{
+         "vn":"béo"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"52a762e5-c24e-4b19-a17d-8d7435d73be1",
+      "vocabulary":"dark skin",
+      "themeId":"36e1af92-09bd-4334-931f-95d11c075e69",
+      "translations":{
+         "vn":"da đen"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"0efbd759-7a04-4213-abef-2f20f4dab1f4",
+      "vocabulary":"dark hair",
+      "themeId":"36e1af92-09bd-4334-931f-95d11c075e69",
+      "translations":{
+         "vn":"tóc đen"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"1b48a1e8-9b20-4de6-bf47-35f4160b0eaa",
+      "vocabulary":"blonde",
+      "themeId":"36e1af92-09bd-4334-931f-95d11c075e69",
+      "translations":{
+         "vn":"tóc vàng hoe"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"72b50276-0b3d-420d-b1da-09dbeebfd392",
+      "vocabulary":"beard",
+      "themeId":"36e1af92-09bd-4334-931f-95d11c075e69",
+      "translations":{
+         "vn":"râu"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"4a87c180-88e3-495c-8686-6ff5efeca55f",
+      "vocabulary":"moustache",
+      "themeId":"36e1af92-09bd-4334-931f-95d11c075e69",
+      "translations":{
+         "vn":"ria mép"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"20d4c405-1ae6-4127-b131-6497a476c9f8",
+      "vocabulary":"good-loking",
+      "themeId":"36e1af92-09bd-4334-931f-95d11c075e69",
+      "translations":{
+         "vn":"ưa nhìn"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"0a3e8de7-27ea-4ec9-aaa1-34f54c721fa9",
+      "vocabulary":"pretty",
+      "themeId":"36e1af92-09bd-4334-931f-95d11c075e69",
+      "translations":{
+         "vn":"xinh đẹp"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"572c0f61-a097-4a95-be47-d6fe05721f1c",
+      "vocabulary":"ugly",
+      "themeId":"36e1af92-09bd-4334-931f-95d11c075e69",
+      "translations":{
+         "vn":"xấu"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"8a9a5b53-24bf-46e5-b257-11846a756f76",
+      "vocabulary":"average-looking",
+      "themeId":"36e1af92-09bd-4334-931f-95d11c075e69",
+      "translations":{
+         "vn":"đẹp trung bình"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"22efcbb1-5004-4a84-9379-4e5dcd4dfa17",
+      "vocabulary":"eldery",
+      "themeId":"36e1af92-09bd-4334-931f-95d11c075e69",
+      "translations":{
+         "vn":"người cao tuổi"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"9f376fe9-ffc2-455d-87a6-dfd483d66f0f",
+      "themeId":"362ef7f2-4b94-48a3-a4bd-04ee1b726dbb",
+      "vocabulary":"illness",
+      "translations":{
+         "vn":"bệnh tật"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"ff4e7f4a-932f-443a-af61-2b185a3545e0",
+      "themeId":"362ef7f2-4b94-48a3-a4bd-04ee1b726dbb",
+      "vocabulary":"sick",
+      "translations":{
+         "vn":"ốm"
+      },
+      "detail":"Sick: thường được sử dụng để miêu tả một trạng thái bệnh tật nhẹ hơn, thường kéo dài ngắn hơn và có thể hồi phục nhanh chóng. Ví dụ: I'm feeling sick today (Tôi cảm thấy khó chịu hôm nay).",
+      "flags":{
+         "hasDetail":true
+      }
+   },
+   {
+      "vocabularyId":"110a8f6e-7a0b-4c34-b756-27f62e62a02b",
+      "themeId":"362ef7f2-4b94-48a3-a4bd-04ee1b726dbb",
+      "vocabulary":"ill",
+      "translations":{
+         "vn":"ốm"
+      },
+      "detail":"Ill: thường được sử dụng để miêu tả một trạng thái bệnh tật nghiêm trọng hơn, thường kéo dài và có thể gây ảnh hưởng lâu dài đến sức khỏe. Ví dụ: She has been ill for weeks (Cô ấy đã bị ốm suốt vài tuần).\nTừ \"ill\" thường được sử dụng trong các văn bản chuyên nghiệp, trong khi \"sick\" thường được sử dụng trong giao tiếp hàng ngày.",
+      "flags":{
+         "hasDetail":true
+      }
+   },
+   {
+      "vocabularyId":"30221b5a-7b9f-4a51-a408-4117d35a0850",
+      "themeId":"362ef7f2-4b94-48a3-a4bd-04ee1b726dbb",
+      "vocabulary":"aspirin",
+      "translations":{
+         "vn":"một loại thuốc"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"f0df0677-954e-4942-a83a-b79e62d43775",
+      "themeId":"362ef7f2-4b94-48a3-a4bd-04ee1b726dbb",
+      "vocabulary":"headache",
+      "translations":{
+         "vn":"đau đầu"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"1bbf6210-6cc7-4df5-8884-b2ac1ce73129",
+      "themeId":"362ef7f2-4b94-48a3-a4bd-04ee1b726dbb",
+      "vocabulary":"toothache",
+      "translations":{
+         "vn":"đau răng"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"bfc1ae76-9969-462b-81dc-b6b5c52f7986",
+      "themeId":"362ef7f2-4b94-48a3-a4bd-04ee1b726dbb",
+      "vocabulary":"dentist",
+      "translations":{
+         "vn":"nha sĩ"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"1425f790-0773-4e73-9a59-c6feb9a69de2",
+      "themeId":"362ef7f2-4b94-48a3-a4bd-04ee1b726dbb",
+      "vocabulary":"hay fever",
+      "translations":{
+         "vn":"sốt mùa hè"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"230198f4-201a-418d-9837-a35aa1d69237",
+      "themeId":"362ef7f2-4b94-48a3-a4bd-04ee1b726dbb",
+      "vocabulary":"sneeze",
+      "translations":{
+         "vn":"hắt hơi"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"316ebc58-95ba-4e11-abef-bc7c8d9be117",
+      "themeId":"362ef7f2-4b94-48a3-a4bd-04ee1b726dbb",
+      "vocabulary":"asthma",
+      "translations":{
+         "vn":"hen suyễn"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"8cea0350-2672-4485-b25f-4d3e45f50e13",
+      "themeId":"362ef7f2-4b94-48a3-a4bd-04ee1b726dbb",
+      "vocabulary":"mosquito",
+      "translations":{
+         "vn":"muỗi"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"6895fd43-a776-4c3f-95cc-5ae0ca7bfa9d",
+      "themeId":"362ef7f2-4b94-48a3-a4bd-04ee1b726dbb",
+      "vocabulary":"malaria",
+      "translations":{
+         "vn":"sốt rét"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"19cd7367-7e4b-455b-b578-f8a711fc73c6",
+      "themeId":"362ef7f2-4b94-48a3-a4bd-04ee1b726dbb",
+      "vocabulary":"cholera",
+      "translations":{
+         "vn":"dịch tả"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"dea300f6-4352-4893-b0f3-0795475564de",
+      "themeId":"362ef7f2-4b94-48a3-a4bd-04ee1b726dbb",
+      "vocabulary":"cancer",
+      "translations":{
+         "vn":"ung thư"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"32d002e6-8190-4e2c-8922-7a224bf7f6ac",
+      "themeId":"362ef7f2-4b94-48a3-a4bd-04ee1b726dbb",
+      "vocabulary":"diet",
+      "translations":{
+         "vn":"ăn kiêng"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   },
+   {
+      "vocabularyId":"8882e358-896a-441d-8613-ea37aedacdaf",
+      "themeId":"bc807141-df31-4da3-a59e-c66b1fd2c679",
+      "vocabulary":"probably",
+      "translations":{
+         "vn":"cõ lẽ"
+      },
+      "detail":"\"Probably\": thể hiện một mức độ chắc chắn hơn và được sử dụng khi có dữ liệu hoặc thông tin để hỗ trợ cho giả định đó. Ví dụ: He will probably arrive at 8pm (Anh ấy có khả năng cao sẽ đến lúc 8 giờ tối).",
+      "flags":{
+         "hasDetail":true
+      }
+   },
+   {
+      "vocabularyId":"703901af-d720-4a7e-9709-10a42a78a8db",
+      "themeId":"bc807141-df31-4da3-a59e-c66b1fd2c679",
+      "vocabulary":"Perhaps",
+      "translations":{
+         "vn":"có lẽ"
+      },
+      "detail":"\"Perhaps\": thể hiện sự không chắc chắn và được sử dụng khi không có đủ thông tin để xác định một cách chắc chắn. Ví dụ: Perhaps he will come later (Có thể anh ấy sẽ đến muộn hơn).",
+      "flags":{
+         "hasDetail":true
+      }
+   },
+   {
+      "vocabularyId":"668d3b12-b425-48bd-9451-a09cd5cc2196",
+      "themeId":"bc807141-df31-4da3-a59e-c66b1fd2c679",
+      "vocabulary":"Maybe",
+      "translations":{
+         "vn":"có "
+      },
+      "detail":"\"Maybe\": tương tự như \"perhaps\", thể hiện sự không chắc chắn và được sử dụng để đưa ra một giả định hoặc dự đoán. Ví dụ: Maybe it will rain tomorrow (Có thể ngày mai sẽ mưa).",
+      "flags":{
+         "hasDetail":true
+      }
+   },
+   {
+      "vocabularyId":"dd184b9d-771b-4180-ae3b-dc29e30a3587",
+      "themeId":"362ef7f2-4b94-48a3-a4bd-04ee1b726dbb",
+      "vocabulary":"breathe",
+      "translations":{
+         "vn":"thở"
+      },
+      "detail":"This word has not detail, you can add this on above input!",
+      "flags":{
+         "hasDetail":false
+      }
+   }
+]
